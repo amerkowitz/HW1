@@ -17,9 +17,15 @@ highPeaks <- data.frame(peakNames = peakNames,
                         ascent = ascent,
                         length = length)
 # question 3
-44*9/5+32
-0*9/5+32
-20*9/5+32
-35*9/5+32
+44*(9/5)+32
+0*(9/5)+32
+20*(9/5)+32
+35*(9/5)+32
 
+# homework
+# question 1
+elevation.m<-elevation/3.28
+
+# question 3
+variable <- highPeaks[2,]
 
